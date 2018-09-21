@@ -1,2 +1,0 @@
-# AcmeStack
-Created with CodeSandbox
